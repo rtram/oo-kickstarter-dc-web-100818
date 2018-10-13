@@ -8,7 +8,8 @@ class Project
     @title = project
   end 
   
-  def add_backer
+  def add_backer(backer)
+    
     
   end 
   
