@@ -2,9 +2,10 @@
 
 class Project
   
+  attr_accessor :title
   
   def initialize(project)
-    @name = project
+    @title = project
   end 
   
 end 
